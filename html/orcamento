@@ -1,0 +1,49 @@
+<!-- Falta o aviso em java e enviar para o email as informações -->
+<!-- FINALIZADO -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Doce Encanto Decorações</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+  <script src="main.js"></script>
+</head>
+
+  <div class="orcamento">
+    <h2>Faça seu orçamento</h2>
+    <form id="cad_aluno" name="form" action="index.html" method="post">   
+        <label class="orcamento" for="nomecompleto">Nome Completo</label>
+        <input class="orcamento" type="text" id="nome" name="nomecompleto" placeholder="Seu nome completo.." required>
+        
+        <label class="orcamento" for="email">Email</label>
+        <input class="orcamento" type="email" id="email "name="email" placeholder="Seu Email.." required>
+        
+        <label class="orcamento" for="celular">Celular</label>
+        <input class="orcamento" type="number"  placeholder="Digite seu Celular.." name="celular" required>
+        
+        <label class="orcamento" for="nasc">Nascimento</label>
+        <input class="orcamento" type="date" id="nascimento" name="nasc" required>
+    
+        <label class="orcamento" for="cpf">CPF</label>
+        <input class="orcamento" type="number" id="cpf" placeholder="Digite seu CPF.." name="celular" required>
+    
+        <label class="orcamento" for="opc">Cliente ou Buffet</label>
+        <select name="clieoubuff">
+          <option value="vazio"></option>
+          <option value="Particular">Particular</option>
+          <option value="Buffet">Buffet</option>
+        </select>
+        <input class="orcamento" type="opc" id="opcao" placeholder="Digite o seu nome ou o nome do buffet se for o caso" name="opcao" required> 
+
+        <label class="orcamento" for="Mesas">Mesas que gostaram</label>
+        <input class="orcamento" type="mesas" id="mesas" placeholder="Digite o modelo de mesa que mais gostou(pode ser mais de uma no caso)" required>
+        
+        <input class="orcamento" type="submit" value="Enviar">
+      </form>
+
+    </div>
+</body>
+</html>
