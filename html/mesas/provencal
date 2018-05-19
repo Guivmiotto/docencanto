@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Doce Encanto Decorações</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+  <script src="main.js"></script>
+</head>
+
+<body class="cor-mesas">
+    <h2 class="mesas-top"> "Banner" Confira abaixo nossas mesas provencais!!!</h2>
+
+     
+      
+
+      <div class="gallery">
+          <a target="_blank" href="file:///C:/Users/USER/Desktop/mesa/Mesas/Detalhes%20de%20mesas/Detalhes%20Provencal/provencal1.html">
+            <img src="C:\Users\USER\Desktop\mesa\Mesas\Provençais e Rusticas\20770472_1058833044253440_605556258500403877_n.jpg" alt="Mountains" width="600" height="400">
+          </a>
+          <div class="desc-mesas">Mesas Provençais e Rusticas</div>
+        </div>
+        
+        <div class="gallery">
+            <a target="_blank" href="img_mountains.jpg">
+              <img src="C:\Users\USER\Desktop\mesa\Mesas\Provençais e Rusticas\20799037_1058833064253438_2733133677050499604_n.jpg" alt="Mountains" width="600" height="400">
+            </a>
+            <div class="desc-mesas">Mesas Provençais e Rusticas</div>
+          </div>
+          
+          <div class="gallery">
+              <a target="_blank" href="img_mountains.jpg">
+                <img src="C:\Users\USER\Desktop\mesa\Mesas\Provençais e Rusticas\20799154_1058832877586790_1355868266095924584_n.jpg" alt="Mountains" width="600" height="400">
+              </a>
+              <div class="desc-mesas">Mesas Provençais e Rusticas</div>
+            </div>
+
+            <div class="gallery">
+                <a target="_blank" href="img_mountains.jpg">
+                  <img src="C:\Users\USER\Desktop\mesa\Mesas\Provençais e Rusticas\20799356_1058833224253422_7414747743743093336_n.jpg" alt="Mountains" width="600" height="400">
+                </a>
+                <div class="desc-mesas">Mesas Provençais e Rusticas</div>
+              </div>
+
+              <div class="gallery">
+                  <a target="_blank" href="img_mountains.jpg">
+                    <img src="C:\Users\USER\Desktop\mesa\Mesas\Provençais e Rusticas\20799155_1058832804253464_2905613461049507538_n.jpg" alt="Mountains" width="600" height="400">
+                  </a>
+                  <div class="desc-mesas">Mesas Provençais e Rusticas</div>
+                </div>
+
+                <div class="gallery">
+                    <a target="_blank" href="img_mountains.jpg">
+                      <img src="C:\Users\USER\Desktop\mesa\Mesas\Provençais e Rusticas\20799557_1058833144253430_11788353777657553_n.jpg" alt="Mountains" width="600" height="400">
+                    </a>
+                    <div class="desc-mesas">Mesas Provençais e Rusticas</div>
+                  </div>
+
+
+                  <div class="gallery">
+                      <a target="_blank" href="img_mountains.jpg">
+                        <img src="C:\Users\USER\Desktop\mesa\Mesas\Provençais e Rusticas\20800307_1058832837586794_3793018476174293748_n.jpg" alt="Mountains" width="600" height="400">
+                      </a>
+                      <div class="desc-mesas">Mesas Provençais e Rusticas</div>
+                    </div>
+
+                    <div class="gallery">
+                        <a target="_blank" href="img_mountains.jpg">
+                          <img src="C:\Users\USER\Desktop\mesa\Mesas\Provençais e Rusticas\20840610_1058832930920118_6194122156464317866_n.jpg" alt="Mountains" width="600" height="400">
+                        </a>
+                        <div class="desc-mesas">Mesas Provençais e Rusticas</div>
+                      </div>
+
+                      <div class="gallery">
+                          <a target="_blank" href="img_mountains.jpg">
+                            <img src="C:\Users\USER\Desktop\mesa\Mesas\Provençais e Rusticas\20914489_1058832627586815_2403673333046927929_n.jpg" alt="Mountains" width="600" height="400">
+                          </a>
+                          <div class="desc-mesas">Mesas Provençais e Rusticas</div>
+                        </div>
+
+                        <div class="gallery">
+                            <a target="_blank" href="img_mountains.jpg">
+                              <img src="C:\Users\USER\Desktop\mesa\Mesas\Provençais e Rusticas\20915522_1058832707586807_4820077854989128220_n.jpg" alt="Mountains" width="600" height="400">
+                            </a>
+                            <div class="desc-mesas">Mesas Provençais e Rusticas</div>
+                          </div>
+
+                          <div class="gallery">
+                              <a target="_blank" href="img_mountains.jpg">
+                                <img src="C:\Users\USER\Desktop\mesa\Mesas\Provençais e Rusticas\20799787_1058832597586818_1611816979640515010_n.jpg" alt="Mountains" width="600" height="400">
+                              </a>
+                              <div class="desc-mesas">Mesas Provençais e Rusticas</div>
+                            </div>
+</body>
+</html>
